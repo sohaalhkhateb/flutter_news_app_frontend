@@ -1,0 +1,1 @@
+this application is for displaying sports, business and science news , there are 3 buttons in BottomNavBar each one represents a news category, when pressing any of the previous buttons, a listView of news objects is displayed, when clicking any object we get redirected to the original source of the news.
